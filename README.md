@@ -4,4 +4,6 @@ In this project, you'll get to build a neural network from scratch to carry out 
 
 The data comes from the UCI Machine Learning Database.
 
-![text][assets/neural_network.png]
+
+
+![Screenshot](assets/neural_network.png)
